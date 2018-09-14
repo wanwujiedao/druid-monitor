@@ -961,7 +961,3 @@ public class MonitorConfiguration {
 - 最后访问监控地址，http:// 项目IP:项目端口/druid/
 
 
-- 创作不易，资金充裕的话打赏一下呗，嘿嘿
-
-![微信](./pay/wchat.jpg)![支付宝](./pay/alipay.jpg)
-
